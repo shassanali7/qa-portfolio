@@ -10,12 +10,16 @@ Critical bugs are issues that:
 - Affect multiple users
 
 ## Bug List
-Each file contains:
+Each file contains: 
+- Description
 - Steps to reproduce
 - Expected result
 - Actual result
 - Severity
-- Environment
+- Priority
+- Impact
+- Notes
+
 
 ## Total Bugs
 (You can update this number manually)
