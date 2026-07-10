@@ -26,3 +26,4 @@ Each bug includes:
 
 ##  Total Bugs
 7
+

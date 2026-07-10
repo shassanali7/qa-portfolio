@@ -26,4 +26,8 @@ Each bug includes:
 - UI actions not triggering correctly
 
 ## Total Bugs
+<<<<<<< HEAD
 9
+=======
+9
+>>>>>>> 0360ec9a8fd4c79d968193e6bded767bf33c1242
