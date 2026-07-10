@@ -26,5 +26,4 @@ Each bug includes:
 - UI actions not triggering correctly
 
 ## Total Bugs
-(Update manually)
-- Total Major Bugs: XX
+9
