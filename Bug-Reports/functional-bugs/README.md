@@ -24,5 +24,4 @@ Each bug includes:
 - Data inconsistencies
 
 ##  Total Bugs
-(Update manually)
-- Total Functional Bugs: XX
+11
