@@ -27,7 +27,7 @@ When the user session expires, the application displays a blank white screen wit
 Critical
 
 ## Priority
-High
+Critical
 
 ## Impact
 - Completely breaks app usability  

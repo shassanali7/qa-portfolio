@@ -24,10 +24,10 @@ Currency conversion is not functioning correctly. Only the currency symbol chang
 - Values remain the same  
 
 ## Severity
-High
+Medium
 
 ## Priority
-High
+Medium
 
 ## Impact
 - Displays incorrect financial data  

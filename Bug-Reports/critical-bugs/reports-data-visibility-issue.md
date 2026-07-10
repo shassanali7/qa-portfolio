@@ -24,7 +24,7 @@ A newly registered user is able to view reports created by other users, leading 
 Critical
 
 ## Priority
-High
+Critical
 
 ## Repro Rate
 Always

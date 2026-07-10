@@ -26,7 +26,7 @@ Banking details entered by the user are not saved after submission.
 Critical
 
 ## Priority
-High
+Critical
 
 ## Impact
 - Prevents financial operations  

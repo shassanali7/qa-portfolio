@@ -21,10 +21,10 @@ After creating a report, it does not appear in the report listing unless the use
 - Appears only after refresh or search  
 
 ## Severity
-High
+Critical
 
 ## Priority
-High
+Critical
 
 ## Impact
 - Users think the report was not created  

@@ -26,7 +26,7 @@ When the user initiates report generation, the process does not start and no fee
 Critical
 
 ## Priority
-High
+Critical
 
 ## Impact
 - Core feature completely broken  

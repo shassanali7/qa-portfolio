@@ -23,13 +23,10 @@ The Vendor ID field does not accept valid Pakistani phone numbers during signup.
 - Valid numbers are rejected  
 
 ## Severity
-High
+Medium
 
 ## Priority
-High
-
-## Repro Rate
-Always
+Medium
 
 ## Impact
 - Blocks vendor registration  

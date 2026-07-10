@@ -24,7 +24,7 @@ The "Update" button in the Vendor Signup flow is not responsive and does not per
 - No action is triggered  
 
 ## Severity
-Critical
+High
 
 ## Priority
 High

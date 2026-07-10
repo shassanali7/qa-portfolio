@@ -26,10 +26,10 @@ Repeat same for External → Collect / Payout
 - No confirmation or error shown  
 
 ## Severity
-Critical
+Medium
 
 ## Priority
-High
+Medium
 
 ## Impact
 - Core functionality broken  

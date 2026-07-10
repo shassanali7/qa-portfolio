@@ -21,10 +21,10 @@ The Leads page continuously triggers a loader when scrolling, affecting usabilit
 - Loader appears repeatedly during scrolling  
 
 ## Severity
-High
+Critical
 
 ## Priority
-High
+Critical
 
 ## Impact
 - Poor user experience  

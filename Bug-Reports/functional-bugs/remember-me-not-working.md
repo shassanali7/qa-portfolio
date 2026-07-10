@@ -26,10 +26,10 @@ The "Remember Me" functionality does not retain user credentials after logout, e
 - Credentials are not retained  
 
 ## Severity
-High
+Medium
 
 ## Priority
-High
+Medium
 
 ## Impact
 - Poor user experience  

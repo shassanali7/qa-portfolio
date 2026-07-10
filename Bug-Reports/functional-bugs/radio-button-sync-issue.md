@@ -25,10 +25,10 @@ Two independent questions are incorrectly linked. Selecting an option (Yes/No) i
 - Selecting one option updates both questions  
 
 ## Severity
-Critical
+Medium
 
 ## Priority
-High
+Medium
 
 ## Impact
 - Incorrect data captured  

@@ -28,10 +28,10 @@ Input field validation is missing or inconsistent across multiple modules. Field
 - No validation or feedback is provided  
 
 ## Severity
-High
+Medium
 
 ## Priority
-High
+Medium
 
 ## Impact
 - Data integrity issues  

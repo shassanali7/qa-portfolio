@@ -27,7 +27,7 @@ When the user presses the back button from the dashboard screen, the app logs th
 Critical
 
 ## Priority
-High
+Critical
 
 ## Impact
 - Breaks user session unexpectedly  

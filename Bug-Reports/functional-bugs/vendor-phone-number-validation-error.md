@@ -21,10 +21,10 @@ The phone number field intermittently shows an error: "Invalid phone number for 
 - Incorrect validation error is displayed  
 
 ## Severity
-High
+Medium
 
 ## Priority
-High
+Medium
 
 ## Impact
 - Blocks user progress  

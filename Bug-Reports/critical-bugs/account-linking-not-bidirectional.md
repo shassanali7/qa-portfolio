@@ -25,10 +25,10 @@ When User A shares their account with User B, User B is unable to link their acc
 - Linking works only in one direction  
 
 ## Severity
-High
+Critical
 
 ## Priority
-High
+Critical
 
 ## Impact
 - Breaks core account sharing functionality  
