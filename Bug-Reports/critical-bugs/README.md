@@ -22,5 +22,4 @@ Each file contains:
 
 
 ## Total Bugs
-(You can update this number manually)
-- Total Critical Bugs: 32+
+9
