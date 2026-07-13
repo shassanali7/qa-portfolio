@@ -22,4 +22,4 @@ Each file contains:
 
 
 ## Total Bugs
-9
+10

@@ -25,5 +25,5 @@ Each bug includes:
 - Non-critical button behavior
 
 ##  Total Bugs
-7
+8
 
