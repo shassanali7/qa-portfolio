@@ -1,4 +1,4 @@
-# Bug: Empty State Message Not Informative
+# Bug: Empty State Message Not Informative in Report section
 
 ## Module
 UX / Messaging

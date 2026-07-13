@@ -60,5 +60,4 @@ High
 * Breaks expected onboarding flow logic
 
 ## Notes
-
 Possible mismatch in platform-specific UI implementation or conditional rendering logic for onboarding state

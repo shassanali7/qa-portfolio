@@ -1,5 +1,4 @@
 # Critical Bugs
-
 This folder contains high-severity bugs identified during testing.
 
 ## Definition
@@ -22,4 +21,4 @@ Each file contains:
 
 
 ## Total Bugs
-10
+9
