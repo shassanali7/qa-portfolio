@@ -10,8 +10,6 @@ This folder contains categorized bug reports identified during manual QA testing
 - Minor Bugs → UI/UX or low-impact issues
 
 ## Platforms Tested
-- Android
-- iOS
 - Web
 
 ## Tools Used

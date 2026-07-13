@@ -1,6 +1,6 @@
-# PopEx - QA Bug Reports
+# Concierge - QA Bug Reports
 
-This folder contains categorized bug reports identified during manual QA testing of the PopEx application.
+This folder contains categorized bug reports identified during manual QA testing of the Concierge application.
 
 ## Bug Categories
 
@@ -10,7 +10,9 @@ This folder contains categorized bug reports identified during manual QA testing
 - Minor Bugs → UI/UX or low-impact issues
 
 ## Platforms Tested
-- Web
+- Android
+- iOS
+
 
 ## Tools Used
 - Manual Testing

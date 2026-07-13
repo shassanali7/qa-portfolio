@@ -17,7 +17,7 @@ This folder contains categorized bug reports identified during manual QA testing
 ## Tools Used
 - Manual Testing
 - JIRA (or ClickUp)
-- Postman (if applicable)
+- Postman 
 
 ## Author
 Hassan Ali – QA Engineer
