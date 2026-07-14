@@ -21,7 +21,7 @@ Currency conversion is not functioning correctly. Only the currency symbol chang
 
 ## Actual Result
 - Only the currency symbol changes  
-- Values remain the same  
+- Values remain the same
 
 ## Severity
 Medium
