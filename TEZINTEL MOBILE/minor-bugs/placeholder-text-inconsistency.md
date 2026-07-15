@@ -1,27 +1,27 @@
-# Bug: Placeholder Text Inconsistent Styling
+## Bug: Placeholder Text Inconsistent Styling
 
-## Module
+# Module
 Forms / Input Fields
 
-## Platforms
+# Platforms
 - Android
 - iOS
 
-## Description
+# Description
 Placeholder text differs in font size and color across different input fields.
 
-## Steps to Reproduce
+# Steps to Reproduce
 1. Open multiple forms
 2. Compare placeholder text
 
-## Expected Result
+# Expected Result
 Consistent placeholder styling across all fields.
 
-## Actual Result
+# Actual Result
 Inconsistent font size and color.
 
-## Severity
+# Severity
 Low
 
-## Priority
+# Priority
 Low

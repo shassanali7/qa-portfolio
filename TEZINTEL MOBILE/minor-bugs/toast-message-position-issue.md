@@ -1,26 +1,26 @@
-# Bug: Toast Message Misaligned
+## Bug: Toast Message Misaligned
 
-## Module
+# Module
 Notifications / UI
 
-## Platforms
+# Platforms
 - Android
 
-## Description
+# Description
 Toast messages sometimes appear too high or too low on the screen.
 
-## Steps to Reproduce
+# Steps to Reproduce
 1. Trigger any toast message
 2. Observe position
 
-## Expected Result
+# Expected Result
 Toast should appear in a consistent position.
 
-## Actual Result
+# Actual Result
 Position varies.
 
-## Severity
+# Severity
 Low
 
-## Priority
+# Priority
 Low

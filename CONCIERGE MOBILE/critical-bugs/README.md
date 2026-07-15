@@ -21,4 +21,4 @@ Each file contains:
 
 
 ## Total Bugs
-11
+4
