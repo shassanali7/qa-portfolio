@@ -29,3 +29,4 @@ This folder contains categorized bug reports identified during manual QA testing
 
 ## Author
 Hassan Ali – QA Engineer
+

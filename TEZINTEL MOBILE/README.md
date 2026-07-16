@@ -1,6 +1,5 @@
 # Tezintel Mobile - QA Bug Reports
-
-This folder contains categorized bug reports identified during manual QA testing of the Tezintel Mobile application.
+This folder contains categorized bug reports identified during QA testing of the Tezintel Mobile application.
 
 ## Bug Categories
 
@@ -17,5 +16,6 @@ This folder contains categorized bug reports identified during manual QA testing
 - Manual Testing
 - MS TEAM, JIRA or ClickUp
 - Postman
+
 ## Author
 Hassan Ali – QA Engineer

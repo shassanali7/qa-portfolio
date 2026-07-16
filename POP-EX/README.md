@@ -1,5 +1,4 @@
 # PopEx - QA Bug Reports
-
 This folder contains categorized bug reports identified during manual QA testing of the PopEx application.
 
 ## Bug Categories

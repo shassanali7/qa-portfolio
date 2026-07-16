@@ -48,6 +48,7 @@ Projects I have worked on include:
 - **Tezintel (Web App)** – Site selection & analytics platform  
 - **Concierge (Web & Mobile)** – Multi-user financial management  
 - **ECO Unity (Mobile App)** – Gamified eco-mission platform  
+- **POP-EX (Web)** - Population Explorer platform
 
 ---
 
