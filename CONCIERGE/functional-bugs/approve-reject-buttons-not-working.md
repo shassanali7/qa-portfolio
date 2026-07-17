@@ -1,30 +1,30 @@
-Bug: Approve/Reject Buttons Not Working
+## Bug: Approve/Reject Buttons Not Working
 
-Module
+# Module
 Admin Profile / Profile Requests
 
-Platform
+# Platform
 Web
 
-Description
+# Description
 Approve and Reject buttons on request details page do not trigger any action.
 
-Steps to Reproduce
-Open Profile Requests
-Click View Details
-Click Approve/Reject
+# Steps to Reproduce
+1. Open Profile Requests
+2. Click View Details
+3. Click Approve/Reject
 
-Expected Result
+# Expected Result
 Request should be processed
 
-Actual Result
+# Actual Result
 No response/action
 
-Severity
+# Severity
 High
 
-Priority
+# Priority
 High
 
-Impact
+# Impact
 Blocks admin workflow

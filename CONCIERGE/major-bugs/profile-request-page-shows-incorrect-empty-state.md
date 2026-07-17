@@ -10,9 +10,9 @@ Web
 UI shows incorrect empty state until page refresh.
 
 # Steps to Reproduce
-Approve last request
-Observe UI
-Refresh
+1. Approve last request
+2. Observe UI
+3. Refresh
 
 # Expected Result
 UI should be consistent

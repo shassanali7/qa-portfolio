@@ -1,29 +1,29 @@
-Bug: Admin Password Reset Validation Missing
+## Bug: Admin Password Reset Validation Missing
 
-Module
+# Module
 Admin Panel / User Management
 
-Platform
+# Platform
 Web
 
-Description
+# Description
 Admin can set invalid password formats that fail during login.
 
-Steps to Reproduce
-Reset password using numeric-only value
-Try login
+# Steps to Reproduce
+1. Reset password using numeric-only value
+2. Try login
 
-Expected Result
+# Expected Result
 Validation should match login rules
 
-Actual Result
+# Actual Result
 Password accepted but login fails
 
-Severity
+# Severity
 High
 
-Priority
+# Priority
 High
 
-Impact
+# Impact
 User lockout

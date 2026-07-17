@@ -1,29 +1,29 @@
-Bug: Transaction Graph Aggregates Data Across Years
+## Bug: Transaction Graph Aggregates Data Across Years
 
-Module
+# Module
 Dashboard / Analytics
 
-Platform
+# Platform
 Web
 
-Description
+# Description
 Transactions from different years are grouped into the same month.
 
-Steps to Reproduce
-Add transactions from different years same month
-View graph
+# Steps to Reproduce
+1. Add transactions from different years same month
+2. View graph
 
-Expected Result
-Data separated by year
+# Expected Result
+- Data separated by year
 
-Actual Result
-Data merged
+# Actual Result
+- Data merged
 
-Severity
+# Severity
 High
 
-Priority
+# Priority
 High
 
-Impact
+# Impact
 Incorrect analytics

@@ -1,31 +1,31 @@
-Bug: Sub-Profile Field Retains Previous Data
+## Bug: Sub-Profile Field Retains Previous Data
 
-Module
+# Module
 Admin Panel / Create Transaction
 
-Platform
+# Platform
 Web
 
-Description
+# Description
 Sub-profile field retains previously selected user data when reopening modal.
 
-Steps to Reproduce
-Open Create Transaction
-Select sub-profile
-Close modal
-Reopen modal
+# Steps to Reproduce
+1. Open Create Transaction
+2. Select sub-profile
+3. Close modal
+4. Reopen modal
 
-Expected Result
+# Expected Result
 Field should reset
 
-Actual Result
+# Actual Result
 Previous data persists
 
-Severity
+# Severity
 Medium
 
-Priority
+# Priority
 Medium
 
-Impact
+# Impact
 Incorrect data selection
