@@ -1,5 +1,4 @@
-
-# Major Bugs
+## Major Bugs
 This folder contains high-impact bugs that affect important functionality but do not completely break the system.
 
 ## Definition
@@ -26,4 +25,4 @@ Each bug includes:
 - UI actions not triggering correctly
 
 ## Total Bugs
-11
+6

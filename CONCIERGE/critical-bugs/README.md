@@ -1,4 +1,4 @@
-# Critical Bugs
+## Critical Bugs
 This folder contains high-severity bugs identified during testing.
 
 ## Definition
@@ -19,6 +19,5 @@ Each file contains:
 - Impact
 - Notes
 
-
 ## Total Bugs
-1
+3

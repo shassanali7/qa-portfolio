@@ -1,6 +1,6 @@
 
 # Major Bugs
-This folder contains high-impact bugs that affect important functionality but do not completely break the system.
+This folder contains high-impact bugs of Concierge Mobile App that affect important functionality but do not completely break the system.
 
 ## Definition
 Major bugs are issues that:
@@ -26,4 +26,4 @@ Each bug includes:
 - UI actions not triggering correctly
 
 ## Total Bugs
-9
+6

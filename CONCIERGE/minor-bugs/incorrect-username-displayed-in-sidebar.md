@@ -16,7 +16,7 @@ Sidebar intermittently displays an incorrect or random username instead of the l
 4. Repeat login/logout multiple times
 
 # Expected Result
-Sidebar should display correct logged-in username consistently
+- Sidebar should display correct logged-in username consistently
 
 # Actual Result
 - Incorrect or random username is displayed

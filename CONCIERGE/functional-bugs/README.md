@@ -1,4 +1,4 @@
-#  Functional Bugs
+##  Functional Bugs
 This folder contains bugs related to core application functionality that do not completely block the system but affect expected behavior.
 
 ##  Definition
@@ -18,9 +18,9 @@ Each bug includes:
 - Notes
 
 ##  Examples
-- Incorrect calculations
+- Password reset validation missing
 - Features not updating properly
 - Data inconsistencies
 
 ##  Total Bugs
-1
+3

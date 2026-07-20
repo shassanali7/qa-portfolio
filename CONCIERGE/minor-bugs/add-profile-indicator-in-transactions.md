@@ -15,7 +15,7 @@ Transactions do not indicate whether they belong to the main profile or a sub-pr
 3. Observe the list of transactions
 
 # Expected Result
-- Each transaction should clearly indicate whether it belongs to:
+* Each transaction should clearly indicate whether it belongs to:
 1. Main profile
 2. Sub-profile
 
